@@ -1,0 +1,37 @@
+{
+  "name": "distro-mic",
+  "version": "0.0.0",
+  "description": "Automatically transform article HTML for third-party platforms such as Facebook Instant Articles, Apple News and Google AMP",
+  "main": "dist/index.js",
+  "scripts": {
+    "lint": "semistandard | snazzy",
+    "test": "babel-node test/index.js && npm run lint",
+    "build": "babel lib --out-dir dist",
+    "watch": "babel lib --out-dir dist --watch",
+    "prepublish": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micnews/distro.git"
+  },
+  "author": "mic.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/micnews/distro/issues"
+  },
+  "homepage": "https://github.com/micnews/distro#readme",
+  "devDependencies": {
+    "babel-cli": "^6.4.5",
+    "babel-core": "^6.5.2",
+    "babel-preset-es2015": "^6.3.13",
+    "semistandard": "^8.0.0",
+    "snazzy": "^3.0.0",
+    "tape": "^4.5.1"
+  },
+  "dependencies": {
+    "article-json-to-amp": "^1.7.1",
+    "article-json-to-apple-news": "^3.2.0",
+    "article-json-to-fbia": "^1.1.0",
+    "html-to-article-json": "^1.13.0"
+  }
+}
