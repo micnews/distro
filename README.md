@@ -1,5 +1,7 @@
 # Distro.Mic
-Transform article HTML for [Facebook Instant Articles](https://developers.facebook.com/docs/instant-articles), [Apple News](https://developer.apple.com/library/ios/documentation/General/Conceptual/Apple_News_Format_Ref/AppleNewsFormat.html) and [Google AMP](https://www.ampproject.org/docs/get_started/about-amp.html)
+Transform article HTML for [Facebook Instant Articles](https://developers.facebook.com/docs/instant-articles), [Apple News](https://developer.apple.com/library/ios/documentation/General/Conceptual/Apple_News_Format_Ref/AppleNewsFormat.html) and [Google AMP](https://www.ampproject.org/docs/get_started/about-amp.html).
+
+Note, this module is designed to transform article body only, other elements of the article page like header, byline and custom stylesheets should be added separately for each format.
 
 ## USAGE
 
