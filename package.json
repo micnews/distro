@@ -1,6 +1,6 @@
 {
   "name": "distro-mic",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Automatically transform article HTML for third-party platforms such as Facebook Instant Articles, Apple News and Google AMP",
   "main": "dist/index.js",
   "scripts": {
