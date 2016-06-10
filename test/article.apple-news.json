@@ -1,0 +1,100 @@
+[
+  {
+    "text": "Universe Might Be Expanding Faster Than We Thought, Scientists Say",
+    "additions": [],
+    "inlineTextStyles": [],
+    "role": "heading1",
+    "layout": "bodyLayout"
+  },
+  {
+    "text": "Astronomers just announced the universe might be expanding up to 9% faster than we thought.\n",
+    "additions": [
+      {
+        "type": "link",
+        "rangeStart": 59,
+        "rangeLength": 8,
+        "URL": "http://hubblesite.org/newscenter/archive/releases/2016/17/text/"
+      }
+    ],
+    "inlineTextStyles": [
+      {
+        "rangeStart": 59,
+        "rangeLength": 8,
+        "textStyle": "bodyLinkTextStyle"
+      }
+    ],
+    "role": "body",
+    "layout": "bodyLayout"
+  },
+  {
+    "text": "It's a surprising insight that could put us one step closer to finally figuring out what the hell dark energy and dark matter are. Or it could mean that we've gotten something fundamentally wrong in our understanding of physics, perhaps even poking a hole in Einstein's theory of gravity.\n",
+    "additions": [
+      {
+        "type": "link",
+        "rangeStart": 98,
+        "rangeLength": 27,
+        "URL": "http://science.nasa.gov/astrophysics/focus-areas/what-is-dark-energy/"
+      }
+    ],
+    "inlineTextStyles": [
+      {
+        "rangeStart": 98,
+        "rangeLength": 27,
+        "textStyle": "bodyLinkTextStyle"
+      }
+    ],
+    "role": "body",
+    "layout": "bodyLayout"
+  },
+  {
+    "role": "container",
+    "components": [
+      {
+        "role": "photo",
+        "URL": "bundle://image-0.jpg",
+        "style": "embedMediaStyle",
+        "layout": "embedMediaLayout",
+        "caption": {
+          "text": "Universe Might Be Expanding Faster Than We Thought, Scientists Say\n",
+          "additions": [],
+          "inlineTextStyles": [],
+          "textStyle": "embedCaptionTextStyle"
+        }
+      }
+    ],
+    "layout": "embedLayout",
+    "style": "embedStyle"
+  },
+  {
+    "role": "container",
+    "components": [
+      {
+        "role": "photo",
+        "URL": "bundle://image-1.jpg",
+        "style": "embedMediaStyle",
+        "layout": "embedMediaLayout",
+        "caption": {
+          "text": "Astronomers used the brightness of Cepheid stars and the distance of Type 1a supernovas to measure how fast the universe is expanding.\n",
+          "additions": [],
+          "inlineTextStyles": [],
+          "textStyle": "embedCaptionTextStyle"
+        }
+      }
+    ],
+    "layout": "embedLayout",
+    "style": "embedStyle"
+  },
+  {
+    "text": "Source: https://mic.com\n",
+    "additions": [],
+    "inlineTextStyles": [
+      {
+        "rangeStart": 0,
+        "rangeLength": 23,
+        "textStyle": "bodyItalicStyle"
+      }
+    ],
+    "role": "body",
+    "layout": "bodyLayout"
+  }
+]
