@@ -38,6 +38,22 @@ Output:
 
 ```
 
+## API ENDPOINT
+
+Distro is also available via API endpoint.
+
+```
+POST https://distro.mic.com/1.0/format
+```
+
+**Post data:**
+
+*Document HTML to transform*
+
+**Query parameters:**
+
+*output* - one of `apple-news`, `instant-article` or `amp`. Return output for specified platform only. Optional.
+
 ## LICENSE
 
 MIT
