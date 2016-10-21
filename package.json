@@ -32,6 +32,6 @@
     "article-json-to-amp": "^1.7.1",
     "article-json-to-apple-news": "^3.2.0",
     "article-json-to-fbia": "^1.1.0",
-    "html-to-article-json": "^1.13.0"
+    "html-to-article-json": "^1.19.2"
   }
 }
