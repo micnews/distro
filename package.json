@@ -26,7 +26,7 @@
     "babel-preset-es2015": "^6.3.13",
     "semistandard": "^9.0.0",
     "snazzy": "^5.0.0",
-    "tape": "^4.5.1"
+    "tape": "^4.6.3"
   },
   "dependencies": {
     "article-json-to-amp": "^1.7.1",
